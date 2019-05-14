@@ -1,0 +1,25 @@
+Team Name£ºEBI
+Group member: 
+1.Guiqin Xiong
+2.Ziten Han
+3.Zibin Luo
+4.Shihao Fan
+
+Spirt #1
+Make a general framework
+Technician:Guiqin Xiong
+---------------------------------
+Spirt #2
+Complete the page
+Technician:Zibin Luo
+---------------------------------
+Spirt #3
+Check BUG
+Technician:Ziten Han
+---------------------------------
+Spirt #4
+ Test page
+Technician:Shihao Fan
+----------------------------------
+Project manger:Guiqin Xiong
+

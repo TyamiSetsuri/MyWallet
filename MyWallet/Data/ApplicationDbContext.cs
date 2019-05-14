@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MyWallet.Models;
 
 namespace MyWallet.Data
 {
@@ -12,5 +13,7 @@ namespace MyWallet.Data
             : base(options)
         {
         }
+        public DbSet<Item> Items { get; set; }
+        public DbSet<Cost> Costs { get; set; }
     }
 }
